@@ -1,0 +1,13 @@
+# Install torch, torch-scatter and torch-cluster first (see README), then:
+numpy==1.26.0
+scipy==1.14.1
+scikit-learn==1.5.2
+pandas==2.2.3
+h5py==3.12.1
+PyYAML==6.0.2
+tqdm==4.66.5
+matplotlib==3.9.2
+laspy==2.7.0
+einops==0.8.2
+timm==0.4.5
+torch-geometric==2.6.1
