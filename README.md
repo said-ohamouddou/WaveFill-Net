@@ -161,5 +161,4 @@ and the scikit-learn baselines run on the CPU.
 The backbone implementations in `models/` and the CUDA extensions in
 `extentions/` are adapted from their original authors; each folder keeps its
 original `LICENSE`. The ReLU-KAN and FastKAN layers follow Qiu et al. (2024) and
-Li (2024). This work was supported by the National Center for Scientific and
-Technical Research in Morocco (PhD-Associate Scholarship, PASS).
+Li (2024).
